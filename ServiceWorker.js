@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Lawson_work_app-0.2";
+const cacheName = "DefaultCompany-Lawson_work_app-0.4.6";
 const contentToCache = [
     "Build/Work_App.loader.js",
     "Build/Work_App.framework.js",
