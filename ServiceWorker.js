@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-Lawson_work_app-0.4.6";
+const cacheName = "DefaultCompany-Lawson_work_app-0.5.0";
 const contentToCache = [
-    "Build/Work_App.loader.js",
-    "Build/Work_App.framework.js",
-    "Build/Work_App.data",
-    "Build/Work_App.wasm",
+    "Build/WEBGL.loader.js",
+    "Build/WEBGL.framework.js",
+    "Build/WEBGL.data",
+    "Build/WEBGL.wasm",
     "TemplateData/style.css"
 
 ];
